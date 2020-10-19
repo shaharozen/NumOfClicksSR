@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NumOfClicksSR</string>
+    <string name="textOnButton">Click Here</string>
+    <string name="textOnTextBox">Num Of Clicks: </string>
 </resources>
